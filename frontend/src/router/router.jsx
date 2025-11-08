@@ -1,4 +1,4 @@
-import { createBrowserRouter } from "react-router-dom"
+﻿import { createBrowserRouter } from "react-router-dom"
 import SignUp from "../pages/SignUp"
 import SignIn from "../pages/SignIn"
 import Board from "../pages/Board"
@@ -38,6 +38,6 @@ export const router = createBrowserRouter(
     },
   ],
   {
-    basename: "/mobdev-lab13-shkryabin"
+    basename: "/mobdev-lab14-shkryabin/"
   }
 )

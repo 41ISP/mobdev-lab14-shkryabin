@@ -1,0 +1,27 @@
+﻿{
+  "name": "shkryabin-app",
+  "short_name": "shkryabin",
+  "description": "Feedback Application",
+  "start_url": "/mobdev-lab14-shkryabin/",
+  "display": "standalone",
+  "background_color": "#F9FAFB",
+  "theme_color": "#4F46E5",
+  "orientation": "portrait-primary",
+  "scope": "/mobdev-lab14-shkryabin/",
+  "icons": [
+    {
+      "src": "icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.svg", 
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "productivity"],
+  "lang": "en"
+}
